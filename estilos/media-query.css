@@ -50,4 +50,8 @@
     #formulario > p{
         font-size: 1.2em;
     }
+
+    input{
+        display: block;
+    }
 }
